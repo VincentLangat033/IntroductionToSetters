@@ -5,7 +5,7 @@ class Student
     @name= name,
     @course = course
   end
-  A getter method for Name
+  # A getter method for Name
   def name
     @name
   end
